@@ -1,0 +1,4 @@
+- Creating repositories
+- Adding new files
+- Creating pull requests
+- Understanding basic workflow
